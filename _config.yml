@@ -18,16 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: This is Gaurav's website
-email: your-email@example.com
+title: Switzerland Goats
+email: GoatsInParadise@fake.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome, This is your ultimate destination for all things Swiss goats. 
+  Explore the captivating world of Alpine and Saanen goats, thriving in Switzerland's scenic landscapes. 
+  Discover the traditions, dairy delights, and cultural significance behind Swiss goat farming. 
+  Whether you're a goat lover, a traveler seeking goat encounters, or simply intrigued by Swiss goat culture, GoatSpotting.ch is your gateway to the
+  enchanting world of Switzerland's goats.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: gauravk817
+github_username:  gauravkarkara
 
 # Build settings
 theme: minima
